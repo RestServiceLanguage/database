@@ -5,5 +5,14 @@
   "main": "index.js",
   "repository": "git@github.com:RestServiceLanguage/database.git",
   "author": "Moritz Schramm <moritz.schramm@gmx.de>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "lint": "eslint index.js lib/"
+  },
+  "devDependencies": {
+    "eslint": "6.6.0"
+  },
+  "dependencies": {
+    "lodash": "4.17.15"
+  }
 }
