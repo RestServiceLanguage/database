@@ -1,5 +1,5 @@
 {
-  "name": "@rsl/database",
+  "name": "@restservicelanguage/database",
   "version": "1.0.0",
   "description": "The database layer of rsl",
   "main": "index.js",
