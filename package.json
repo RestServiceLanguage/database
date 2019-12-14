@@ -1,6 +1,6 @@
 {
   "name": "@restservicelanguage/database",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "The database layer of rsl",
   "main": "index.js",
   "repository": "git@github.com:RestServiceLanguage/database.git",
